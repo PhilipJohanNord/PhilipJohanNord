@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
 <h3 align="center">Im a web dev from Norway</h3>
 
+<h1>━━━━━━━━━━━━━</h1>
+
 - 🔭 I’m currently working on **Nothing At the moment**
 
 - 🌱 I’m currently learning **Unreal Engine**
