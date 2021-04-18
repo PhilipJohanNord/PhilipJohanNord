@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChinaCity16?tab=repositories](https://github.com/ChinaCity16?tab=repositories)
 
-- ⚡ Fun fact [Im Norwegian](Im Norwegian)
+- ⚡ Fun fact (Im Norwegian)
 
 - 💬 Ask me about **HTML, Java and Python**
 
