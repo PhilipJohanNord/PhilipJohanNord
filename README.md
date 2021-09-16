@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChinaCity16?tab=repositories](https://github.com/ChinaCity16?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/PhilipJohanNord?tab=repositories](https://github.com/PhilipJohanNord?tab=repositories)
 
 - ⚡ Fun fact (Im Norwegian)
 
