@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
-<h3 align="center">Im a web dev from Norway</h3>
+<h3 align="center">The best web developer in the Norwegian Farm Lands</h3>
 
 <h1>━━━━━━━━━━━━━</h1>
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact (Im Norwegian)
 
-- 💬 Ask me about **HTML, Java and Python**
+- 💬 Ask me about **HTML, CSS, JS and Python**
 
 - 📫 How to reach me **philipjohan06@gmail.com**
 
